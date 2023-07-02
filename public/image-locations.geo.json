@@ -1,0 +1,1025 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-42-47-119.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3793066,
+          52.12315674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-35-25-263.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384023200000001,
+          52.1249027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-42-53-585.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38163971,
+          52.12356223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-50-19-615.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37902157,
+          52.12516007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-29-35-996.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38644775,
+          52.12656768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-51-47-705.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3837769,
+          52.1220929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-48-30-658.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3803554,
+          52.1241913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-43-05-986.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3793511999999994,
+          52.12317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-38-48-751.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38077206,
+          52.12244238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-45-15-506.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38276901,
+          52.12176409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-57-43-419.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38074957,
+          52.12057121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-48-10-220.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.380255099999999,
+          52.124189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-36-45-893.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3806873,
+          52.1230833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-12-01-58-286.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37710393,
+          52.12076468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-12-02-08-753.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3770612,
+          52.1207251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-35-42-415.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3811572,
+          52.1233341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-40-42-807.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38238903,
+          52.11911342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-50-16-612.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383782200000001,
+          52.1220919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-12-00-16-200.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.378363429999999,
+          52.12184308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-41-08-452.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.382413,
+          52.11907067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-32-19-327.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38412787,
+          52.12438701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-39-26-965.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38371414,
+          52.12552149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-12-01-03-878.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.378348399999999,
+          52.1218359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-49-37-130.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383734700000001,
+          52.1222209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-45-50-574.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3835172,
+          52.1211422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-49-21-445.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3839116,
+          52.122165700000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-43-08-338.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3793511999999994,
+          52.12317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-52-29-026.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38389406,
+          52.12200961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-48-22-975.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3803687,
+          52.1241875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-34-56-704.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384004760000001,
+          52.12492452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-36-36-871.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38070049,
+          52.12312362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-28-21-773.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3870819700000006,
+          52.12699124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-38-15-025.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38077285,
+          52.12250907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-44-13-904.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.379145599999999,
+          52.1228949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-49-53-152.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3836801,
+          52.122173000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-39-24-413.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38371501,
+          52.12553134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-36-22-486.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38424888,
+          52.12508235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-14-14-13-090.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36451708,
+          52.12466009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-28-10-011.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38709195,
+          52.12699144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-59-12-342.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.379873999999999,
+          52.12124277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-14-14-09-184.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3632614,
+          52.1237064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-34-17-798.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383931100000001,
+          52.1246974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-34-14-106.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39574581,
+          52.11920035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-43-04-506.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3816998,
+          52.1235089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-58-06-284.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3807437,
+          52.1207125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-41-58-354.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37952136,
+          52.12302771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-38-58-135.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.380769699999999,
+          52.1223818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-34-07-537.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39575855,
+          52.119194040000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-40-37-359.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3823243,
+          52.1189427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-12-01-46-814.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.378221699999999,
+          52.1218349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-58-12-495.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3807332,
+          52.1207371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-34-08-645.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383929500000001,
+          52.1247209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-40-57-774.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3824141999999995,
+          52.11906775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-34-22-222.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383931100000001,
+          52.1246974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-35-07-409.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3840242400000005,
+          52.12490955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-37-49-203.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3807471,
+          52.1226307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-42-07-850.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.379595299999999,
+          52.1230191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-49-07-750.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384006,
+          52.1221545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-50-08-010.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37904818,
+          52.12513887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-35-21-094.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38102782,
+          52.12335066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-50-48-346.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3837769,
+          52.1220929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-40-26-127.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38326178,
+          52.125155570000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-38-22-308.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383506980000001,
+          52.12534124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-47-42-992.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3800330899999995,
+          52.12415082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-50-36-613.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3837769,
+          52.1220929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-32-35-973.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3841498,
+          52.12433703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-37-36-269.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.380769999999999,
+          52.12257162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-50-21-992.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3837769,
+          52.1220929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-44-07-245.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.379229479999999,
+          52.12290584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-51-23-229.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3837769,
+          52.1220929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-45-07-117.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38276414,
+          52.12175704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-57-46-592.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.380746579999999,
+          52.12058204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-51-36-458.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3837769,
+          52.1220929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-35-32-765.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.381161499999999,
+          52.1233866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-33-59-985.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383925240000001,
+          52.12471254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-32-53-081.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3840728,
+          52.1244474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-36-27-947.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38424952,
+          52.125098200000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-29-06-195.jpg\"></img>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.386742600000001,
+          52.1266958
+        ]
+      }
+    }
+  ]
+}
