@@ -6,19 +6,13 @@ import {OSM, Vector as VectorSource} from 'ol/source';
 import {Tile as TileLayer, Vector as VectorLayer} from 'ol/layer';
 import {useGeographic} from 'ol/proj';
 import {Select} from "ol/interaction";
+import {Overlay} from "ol";
 
 useGeographic();
 
+// Load geospatial features
 const res = await fetch ('image-locations.geo.json');
 const locations = await res.json();
-
-
-
-const style = new Style({
-  fill: new Fill({
-    color: '#eeeeee',
-  }),
-});
 
 const vectorLayer = new VectorLayer({
   source: new VectorSource({
@@ -26,9 +20,12 @@ const vectorLayer = new VectorLayer({
   })
 });
 
+const attributions =
+    '<a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>';
+
 const map = new Map({
   layers: [
-    new TileLayer({source: new OSM()}),
+    new TileLayer({source: new OSM({attributions: attributions})}),
     vectorLayer,
   ],
   target: 'map',
@@ -38,17 +35,7 @@ const map = new Map({
   }),
 });
 
-const selected = new Style({
-  fill: new Fill({
-    color: '#eeeeee',
-  }),
-  stroke: new Stroke({
-    color: 'rgba(255, 255, 255, 0.7)',
-    width: 2,
-  }),
-});
-
-let selectStyle = function (feature) {
+let selectStyle = function () {
   let fill = new Fill({
     color: '#326de5',
   });
@@ -58,7 +45,7 @@ let selectStyle = function (feature) {
     width: 1.5
   });
 
-  let styles = [
+  return [
     new Style({
       image: new CircleStyle({
         fill: fill,
@@ -69,7 +56,48 @@ let selectStyle = function (feature) {
       stroke: stroke
     })
   ];
-  return styles;
 }
 
 map.addInteraction(new Select({style: selectStyle}));
+
+// Add popover handler
+const element = document.getElementById('popup');
+const content = document.getElementById('popup-content');
+const closer = document.getElementById('popup-closer');
+
+/**
+ * Add a click handler to hide the popup.
+ * @return {boolean} Don't follow the href.
+ */
+closer.onclick = function () {
+  popup.setPosition(undefined);
+  closer.blur();
+  return false;
+};
+
+const popup = new Overlay({
+  element: element,
+  positioning: 'bottom-center',
+  stopEvent: false,
+});
+map.addOverlay(popup);
+
+let popover;
+function disposePopover() {
+  if (popover) {
+    popover.dispose();
+    popover = undefined;
+  }
+}
+// display popup on click
+map.on('click', function (evt) {
+  const feature = map.forEachFeatureAtPixel(evt.pixel, function (feature) {
+    return feature;
+  });
+  disposePopover();
+  if (!feature) {
+    return;
+  }
+  popup.setPosition(feature.getGeometry().getCoordinates());
+  content.innerHTML = '<img src="'+ feature.get('image') + '">' + '</img>';
+});
