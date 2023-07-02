@@ -1,16 +1,10 @@
 {
   "type": "FeatureCollection",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "EPSG:4326"
-    }
-  },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-42-47-119.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-42-47-119.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +17,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-35-25-263.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-35-25-263.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +30,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-42-53-585.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-42-53-585.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -49,7 +43,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-50-19-615.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-50-19-615.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -62,7 +56,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-29-35-996.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-29-35-996.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +69,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-51-47-705.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-51-47-705.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -88,7 +82,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-48-30-658.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-48-30-658.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -101,7 +95,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-43-05-986.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-43-05-986.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -114,7 +108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-38-48-751.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-38-48-751.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +121,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-45-15-506.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-45-15-506.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -140,7 +134,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-57-43-419.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-57-43-419.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -153,7 +147,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-48-10-220.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-48-10-220.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -166,7 +160,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-36-45-893.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-36-45-893.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -179,7 +173,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-12-01-58-286.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-12-01-58-286.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -192,7 +186,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-12-02-08-753.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-12-02-08-753.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -205,7 +199,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-35-42-415.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-35-42-415.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -218,7 +212,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-40-42-807.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-40-42-807.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +225,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-50-16-612.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-50-16-612.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -244,7 +238,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-12-00-16-200.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-12-00-16-200.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +251,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-41-08-452.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-41-08-452.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -270,7 +264,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-32-19-327.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-32-19-327.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -283,7 +277,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-39-26-965.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-39-26-965.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -296,7 +290,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-12-01-03-878.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-12-01-03-878.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -309,7 +303,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-49-37-130.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-49-37-130.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -322,7 +316,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-45-50-574.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-45-50-574.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -335,7 +329,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-49-21-445.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-49-21-445.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -348,7 +342,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-43-08-338.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-43-08-338.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -361,7 +355,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-52-29-026.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-52-29-026.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -374,7 +368,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-48-22-975.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-48-22-975.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -387,7 +381,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-34-56-704.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-34-56-704.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -400,7 +394,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-36-36-871.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-36-36-871.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -413,7 +407,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-28-21-773.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-28-21-773.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -426,7 +420,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-38-15-025.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-38-15-025.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -439,7 +433,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-44-13-904.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-44-13-904.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -452,7 +446,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-49-53-152.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-49-53-152.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -465,7 +459,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-39-24-413.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-39-24-413.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -478,7 +472,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-36-22-486.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-36-22-486.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -491,7 +485,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-14-14-13-090.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-14-14-13-090.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -504,7 +498,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-28-10-011.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-28-10-011.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -517,7 +511,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-59-12-342.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-59-12-342.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -530,7 +524,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-14-14-09-184.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-14-14-09-184.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -543,7 +537,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-34-17-798.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-34-17-798.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -556,7 +550,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-34-14-106.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-34-14-106.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -569,7 +563,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-43-04-506.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-43-04-506.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -582,7 +576,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-58-06-284.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-58-06-284.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -595,7 +589,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-41-58-354.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-41-58-354.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -608,7 +602,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-38-58-135.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-38-58-135.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +615,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-34-07-537.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-34-07-537.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -634,7 +628,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-40-37-359.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-40-37-359.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -647,7 +641,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-12-01-46-814.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-12-01-46-814.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -660,7 +654,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-58-12-495.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-58-12-495.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -673,7 +667,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-34-08-645.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-34-08-645.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -686,7 +680,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-40-57-774.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-40-57-774.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -699,7 +693,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-34-22-222.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-34-22-222.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -712,7 +706,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-35-07-409.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-35-07-409.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -725,7 +719,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-37-49-203.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-37-49-203.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -738,7 +732,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-42-07-850.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-42-07-850.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -751,7 +745,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-49-07-750.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-49-07-750.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -764,7 +758,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-50-08-010.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-50-08-010.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -777,7 +771,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-35-21-094.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-35-21-094.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -790,7 +784,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-50-48-346.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-50-48-346.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -803,7 +797,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-40-26-127.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-40-26-127.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -816,7 +810,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-38-22-308.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-38-22-308.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -829,7 +823,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-47-42-992.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-47-42-992.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -842,7 +836,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-50-36-613.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-50-36-613.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -855,7 +849,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-32-35-973.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-32-35-973.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -868,7 +862,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-37-36-269.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-37-36-269.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -881,7 +875,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-50-21-992.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-50-21-992.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -894,7 +888,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-44-07-245.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-44-07-245.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -907,7 +901,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-51-23-229.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-51-23-229.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -920,7 +914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-45-07-117.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-30-13-45-07-117.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -933,7 +927,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-57-46-592.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-57-46-592.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -946,7 +940,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-51-36-458.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-51-36-458.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -959,7 +953,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-35-32-765.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-06-29-13-35-32-765.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -972,7 +966,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-33-59-985.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-33-59-985.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -985,7 +979,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-32-53-081.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-32-53-081.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -998,7 +992,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-36-27-947.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-36-27-947.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1011,7 +1005,7 @@
     {
       "type": "Feature",
       "properties": {
-        "image": "<img src=\"https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-29-06-195.jpg\"></img>"
+        "image": "https://antfield.thegood.cloud/apps/files_sharing/publicpreview/3ntzA63cKnyndLe?x=1440&y=900&a=true&file=/2023-07-01-11-29-06-195.jpg"
       },
       "geometry": {
         "type": "Point",
